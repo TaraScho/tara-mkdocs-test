@@ -1,0 +1,8 @@
+site_name: Tara's Cool Docs
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
